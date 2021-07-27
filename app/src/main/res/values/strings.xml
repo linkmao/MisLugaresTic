@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mis Lugares TIC</string>
+    <string name="mensaje_fab" translatable="false"> Clic en el botón fab</string>
+    <string name="accion_mostrar" translatable="false">Mostrar Lugares</string>
+    <string name="accion_preferencias">Preferencias</string>
+    <string name="accion_acerca_de">Acerca de </string>
+    <string name="accion_salir">Salir</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="comentario" translatable="false">Comentario</string>
+    <string name="nombre">Nombre:</string>
+    <string name="identificar_el_lugar" translatable="false">Algo que identifique el lugar</string>
+    <string name="tipo_lugar" translatable="false">Tipo:</string>
+    <string name="direccion" translatable="false">Dirección:</string>
+    <string name="direccion_lugar" translatable="false">Dirección del lugar:</string>
+    <string name="telefono" translatable="false">Teléfono:</string>
+    <string name="tel_contacto" translatable="false">Teléfono para contactar</string>
+    <string name="url" translatable="false">Url:</string>
+    <string name="web" translatable="false">Página web</string>
+    <string name="notas" translatable="false">Introduce tus notas</string>
+    <string name="acercade">Esta app ha sido desarrollada en el ciclo 4b de la misión TIC 2022 …..</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve"
+        translatable="false">AIzaSyAk039a0Jz7Q0j4qdiRppHPN_mTfS_nJTk
+    </string>
+
+</resources>
